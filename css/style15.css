@@ -1,0 +1,89 @@
+body{
+    padding:2vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#list{
+    position:absolute;
+    transform: translate(0%, -50%);
+    top:50vh;
+    /* margin-top:110px; */
+}
+.button{
+    position: relative;
+    /* background-color: #2FC7FA; */
+    background-color: #9b9b9b;
+    opacity:0.5;
+    border: none;
+    border-radius:  8px;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* width: 10vw; */
+    margin-top:5px;
+  }
+.button:hover{
+    opacity:0.7;
+    color:black;
+  }
+
+  #poem{
+    position:absolute;
+    transform: translate(-50%, -50%);
+    top:50vh;
+    left:55vw;
+    width:75vw;
+    font-size: 3vw;
+    font-weight:900;
+    color: lightgray;
+}
+#a{
+    color:rgb(80, 80, 80);
+}
+/* #b{
+    color:rgb(80, 80, 80);
+} */
+#c{
+    color:rgb(80, 80, 80);
+}
+/* #d{
+    color:rgb(119, 171, 75);
+} */
+#e{
+    color:rgb(80, 80, 80);
+}
+#f{
+    color:rgb(150, 150, 150);
+}
+#g{
+    color:rgb(185, 185, 185);
+}
+
+/* #cold{
+    color:lightgray;
+}
+#night{
+    color:rgb(80, 80, 80);
+}
+#moon{
+    color:rgb(80, 80, 80);
+}
+#abroad{
+    color:rgb(80, 80, 80);
+}
+
+#farmer{
+    color:rgb(80, 80, 80);
+}
+#nod{
+    color:rgb(80, 80, 80);
+}
+#star{
+    color:rgb(80, 80, 80);
+}
+#children{
+    color:rgb(80, 80, 80);
+} */
+/* rhythm */
